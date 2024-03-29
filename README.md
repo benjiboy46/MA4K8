@@ -12,3 +12,7 @@ Note that AdaptedFJ refers to the Adapted DeGroot Model - it is called FJ after 
 The file parameter.py contains all the necessary parameters for the networks.
 
 Files runMODELS.py, test.py and resultsplotter.py are used for running the models and outputting data.
+
+customcolour.py is a small edit on authors original code - just to change colour scheme for plots.
+
+The orginal author mentioned is __author__ = 'Cecilia Toccaceli'
