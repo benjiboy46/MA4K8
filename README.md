@@ -9,4 +9,4 @@ Files AdaptedFJ.py, AdaptedWHK.py and OwnModel.py contain the opinion dynamics m
 
 The file parameter.py contains all the necessary parameters for the networks.
 
-Files runMODELS.py and test.py are used for running the models and outputting data.
+Files runMODELS.py, test.py and resultsplotter.py are used for running the models and outputting data.
